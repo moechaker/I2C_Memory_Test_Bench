@@ -1,6 +1,6 @@
 # I2C_Memory_Test_Bench
 
-This repository contains a SystemVerilog test bench and related files to verify the functionality of an I2C memory device. The test bench utilizes constraint randomization to generate a comprehensive set of test scenarios, focusing on address, write/read, and data in a transaction to validate the I2C memory's behavior under various conditions.
+This repository contains a SystemVerilog test bench and related files to verify the functionality of an I2C memory device. The test bench utilizes constraint randomization to generate a comprehensive set of test scenarios, focusing on address, write/read, and data in a transaction to validate the I2C memory's behavior under various conditions. newd is kept high and not randomized.
 
 
 ## Introduction
