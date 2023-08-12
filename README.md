@@ -16,7 +16,7 @@ The I2C Memory Verification Test Bench project aims to ensure the proper operati
 
 ## Usage
 
-To run the DAC-SPI verification test bench, perform the following steps:
+To run the verification test bench, perform the following steps:
 
 1. Visit this link https://www.edaplayground.com/x/h3E5
 2. Top right, hit login and create an account
